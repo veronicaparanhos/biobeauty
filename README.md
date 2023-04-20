@@ -13,7 +13,7 @@
 
 
 ## Figma
-> Também era necessário criar o layout no Figma <br />
+> Também era necessário criar o layout do projeto no Figma <br />
 
 ![image](./img/biobeauty_figma.png)
 
