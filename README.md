@@ -19,5 +19,5 @@
 
 ⚠️ O projeto deveria ser responsivo para celulares, tablet e desktop. <br />
 
-- Link para o projeto no Figma: https://bitlybr.com/IzOps <br />
-- Link para a página: https://veronicaparanhos.github.io/biobeauty/
+- [Link para o projeto no Figma](https://bitlybr.com/IzOps) <br />
+- [Link para a página](https://veronicaparanhos.github.io/biobeauty/)
